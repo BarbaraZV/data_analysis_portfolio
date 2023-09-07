@@ -34,6 +34,9 @@ This repository tells you more about my skills and projects that show my progres
 - [Contacts](#contacts)
 
 ## Portfolio Projects
+- Data Analysis (EDA) and Machine Learning
+ 
+ * [Credit Card Transactions Fraud Detection](https://github.com/BarbaraZV/Fraud_detection#datasets)
 
 
 ## Study Projects
